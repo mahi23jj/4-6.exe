@@ -1,4 +1,4 @@
-#security
+#SECURITY.MD
 
 there is only 1 warning
 
